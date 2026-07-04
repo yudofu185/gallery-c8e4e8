@@ -1,0 +1,558 @@
+{
+  "version": 1,
+  "baseUrl": "",
+  "generatedAt": "2026-07-04T07:00:46.246523100+00:00",
+  "galleries": [
+    {
+      "galleryId": "wall",
+      "mode": "SlideShow",
+      "autoplay": true,
+      "interval": 10,
+      "images": [
+        {
+          "id": "7c2bad98",
+          "thumbnail": "thumb/7c2bad98.jpg",
+          "fullsize": "full/7c2bad98.jpg",
+          "version": 1
+        },
+        {
+          "id": "d4e7f068",
+          "thumbnail": "thumb/d4e7f068.jpg",
+          "fullsize": "full/d4e7f068.jpg",
+          "version": 1
+        },
+        {
+          "id": "abfdd562",
+          "thumbnail": "thumb/abfdd562.jpg",
+          "fullsize": "full/abfdd562.jpg",
+          "version": 1
+        },
+        {
+          "id": "58cf8a1f",
+          "thumbnail": "thumb/58cf8a1f.jpg",
+          "fullsize": "full/58cf8a1f.jpg",
+          "version": 1
+        },
+        {
+          "id": "bdc3e520",
+          "thumbnail": "thumb/bdc3e520.jpg",
+          "fullsize": "full/bdc3e520.jpg",
+          "version": 1
+        },
+        {
+          "id": "00bd5679",
+          "thumbnail": "thumb/00bd5679.jpg",
+          "fullsize": "full/00bd5679.jpg",
+          "version": 1
+        },
+        {
+          "id": "c02462be",
+          "thumbnail": "thumb/c02462be.jpg",
+          "fullsize": "full/c02462be.jpg",
+          "version": 1
+        },
+        {
+          "id": "e90dfecc",
+          "thumbnail": "thumb/e90dfecc.jpg",
+          "fullsize": "full/e90dfecc.jpg",
+          "version": 1
+        },
+        {
+          "id": "193dd8d0",
+          "thumbnail": "thumb/193dd8d0.jpg",
+          "fullsize": "full/193dd8d0.jpg",
+          "version": 1
+        },
+        {
+          "id": "f99cff4c",
+          "thumbnail": "thumb/f99cff4c.jpg",
+          "fullsize": "full/f99cff4c.jpg",
+          "version": 1
+        },
+        {
+          "id": "eefc35ed",
+          "thumbnail": "thumb/eefc35ed.jpg",
+          "fullsize": "full/eefc35ed.jpg",
+          "version": 1
+        },
+        {
+          "id": "85551cd1",
+          "thumbnail": "thumb/85551cd1.jpg",
+          "fullsize": "full/85551cd1.jpg",
+          "version": 1
+        },
+        {
+          "id": "c6ab6aae",
+          "thumbnail": "thumb/c6ab6aae.jpg",
+          "fullsize": "full/c6ab6aae.jpg",
+          "version": 1
+        },
+        {
+          "id": "a668fac3",
+          "thumbnail": "thumb/a668fac3.jpg",
+          "fullsize": "full/a668fac3.jpg",
+          "version": 1
+        },
+        {
+          "id": "906782cb",
+          "thumbnail": "thumb/906782cb.jpg",
+          "fullsize": "full/906782cb.jpg",
+          "version": 1
+        },
+        {
+          "id": "036d7bd8",
+          "thumbnail": "thumb/036d7bd8.jpg",
+          "fullsize": "full/036d7bd8.jpg",
+          "version": 1
+        },
+        {
+          "id": "cf613646",
+          "thumbnail": "thumb/cf613646.jpg",
+          "fullsize": "full/cf613646.jpg",
+          "version": 1
+        },
+        {
+          "id": "b9458620",
+          "thumbnail": "thumb/b9458620.jpg",
+          "fullsize": "full/b9458620.jpg",
+          "version": 1
+        },
+        {
+          "id": "deb2a268",
+          "thumbnail": "thumb/deb2a268.jpg",
+          "fullsize": "full/deb2a268.jpg",
+          "version": 1
+        },
+        {
+          "id": "645287e9",
+          "thumbnail": "thumb/645287e9.jpg",
+          "fullsize": "full/645287e9.jpg",
+          "version": 1
+        },
+        {
+          "id": "ec3653ab",
+          "thumbnail": "thumb/ec3653ab.jpg",
+          "fullsize": "full/ec3653ab.jpg",
+          "version": 1
+        },
+        {
+          "id": "2d36064b",
+          "thumbnail": "thumb/2d36064b.jpg",
+          "fullsize": "full/2d36064b.jpg",
+          "version": 1
+        },
+        {
+          "id": "370c9544",
+          "thumbnail": "thumb/370c9544.jpg",
+          "fullsize": "full/370c9544.jpg",
+          "version": 1
+        },
+        {
+          "id": "354e2027",
+          "thumbnail": "thumb/354e2027.jpg",
+          "fullsize": "full/354e2027.jpg",
+          "version": 1
+        },
+        {
+          "id": "e366b240",
+          "thumbnail": "thumb/e366b240.jpg",
+          "fullsize": "full/e366b240.jpg",
+          "version": 1
+        },
+        {
+          "id": "b6b9d867",
+          "thumbnail": "thumb/b6b9d867.jpg",
+          "fullsize": "full/b6b9d867.jpg",
+          "version": 1
+        },
+        {
+          "id": "951d2a20",
+          "thumbnail": "thumb/951d2a20.jpg",
+          "fullsize": "full/951d2a20.jpg",
+          "version": 1
+        },
+        {
+          "id": "77cde2dc",
+          "thumbnail": "thumb/77cde2dc.jpg",
+          "fullsize": "full/77cde2dc.jpg",
+          "version": 1
+        },
+        {
+          "id": "04b3ede2",
+          "thumbnail": "thumb/04b3ede2.jpg",
+          "fullsize": "full/04b3ede2.jpg",
+          "version": 1
+        },
+        {
+          "id": "a4d2bf15",
+          "thumbnail": "thumb/a4d2bf15.jpg",
+          "fullsize": "full/a4d2bf15.jpg",
+          "version": 1
+        },
+        {
+          "id": "6d609550",
+          "thumbnail": "thumb/6d609550.jpg",
+          "fullsize": "full/6d609550.jpg",
+          "version": 1
+        },
+        {
+          "id": "6711fae7",
+          "thumbnail": "thumb/6711fae7.jpg",
+          "fullsize": "full/6711fae7.jpg",
+          "version": 1
+        },
+        {
+          "id": "6cfbb547",
+          "thumbnail": "thumb/6cfbb547.jpg",
+          "fullsize": "full/6cfbb547.jpg",
+          "version": 1
+        },
+        {
+          "id": "4ffc85d4",
+          "thumbnail": "thumb/4ffc85d4.jpg",
+          "fullsize": "full/4ffc85d4.jpg",
+          "version": 1
+        },
+        {
+          "id": "b8d6641d",
+          "thumbnail": "thumb/b8d6641d.jpg",
+          "fullsize": "full/b8d6641d.jpg",
+          "version": 1
+        },
+        {
+          "id": "b86c382b",
+          "thumbnail": "thumb/b86c382b.jpg",
+          "fullsize": "full/b86c382b.jpg",
+          "version": 1
+        },
+        {
+          "id": "a2a9ea28",
+          "thumbnail": "thumb/a2a9ea28.jpg",
+          "fullsize": "full/a2a9ea28.jpg",
+          "version": 1
+        },
+        {
+          "id": "83294d30",
+          "thumbnail": "thumb/83294d30.jpg",
+          "fullsize": "full/83294d30.jpg",
+          "version": 1
+        },
+        {
+          "id": "fd32c809",
+          "thumbnail": "thumb/fd32c809.jpg",
+          "fullsize": "full/fd32c809.jpg",
+          "version": 1
+        },
+        {
+          "id": "2c417a8d",
+          "thumbnail": "thumb/2c417a8d.jpg",
+          "fullsize": "full/2c417a8d.jpg",
+          "version": 1
+        },
+        {
+          "id": "63a10242",
+          "thumbnail": "thumb/63a10242.jpg",
+          "fullsize": "full/63a10242.jpg",
+          "version": 1
+        },
+        {
+          "id": "a5d94ee0",
+          "thumbnail": "thumb/a5d94ee0.jpg",
+          "fullsize": "full/a5d94ee0.jpg",
+          "version": 1
+        },
+        {
+          "id": "3b03f156",
+          "thumbnail": "thumb/3b03f156.jpg",
+          "fullsize": "full/3b03f156.jpg",
+          "version": 1
+        },
+        {
+          "id": "85975614",
+          "thumbnail": "thumb/85975614.jpg",
+          "fullsize": "full/85975614.jpg",
+          "version": 1
+        },
+        {
+          "id": "d62f509b",
+          "thumbnail": "thumb/d62f509b.jpg",
+          "fullsize": "full/d62f509b.jpg",
+          "version": 1
+        },
+        {
+          "id": "2f938bac",
+          "thumbnail": "thumb/2f938bac.jpg",
+          "fullsize": "full/2f938bac.jpg",
+          "version": 1
+        },
+        {
+          "id": "a028c382",
+          "thumbnail": "thumb/a028c382.jpg",
+          "fullsize": "full/a028c382.jpg",
+          "version": 1
+        },
+        {
+          "id": "e2b6fe6a",
+          "thumbnail": "thumb/e2b6fe6a.jpg",
+          "fullsize": "full/e2b6fe6a.jpg",
+          "version": 1
+        },
+        {
+          "id": "71eee232",
+          "thumbnail": "thumb/71eee232.jpg",
+          "fullsize": "full/71eee232.jpg",
+          "version": 1
+        },
+        {
+          "id": "81bb836a",
+          "thumbnail": "thumb/81bb836a.jpg",
+          "fullsize": "full/81bb836a.jpg",
+          "version": 1
+        },
+        {
+          "id": "8cbf9e6d",
+          "thumbnail": "thumb/8cbf9e6d.jpg",
+          "fullsize": "full/8cbf9e6d.jpg",
+          "version": 1
+        }
+      ]
+    },
+    {
+      "galleryId": "wall_b",
+      "mode": "Grid16",
+      "autoplay": true,
+      "interval": 10,
+      "images": [
+        {
+          "id": "7a03a0e3",
+          "thumbnail": "thumb/7a03a0e3.jpg",
+          "fullsize": "full/7a03a0e3.jpg",
+          "version": 1
+        },
+        {
+          "id": "f6fc42de",
+          "thumbnail": "thumb/f6fc42de.jpg",
+          "fullsize": "full/f6fc42de.jpg",
+          "version": 1
+        },
+        {
+          "id": "a23a739b",
+          "thumbnail": "thumb/a23a739b.jpg",
+          "fullsize": "full/a23a739b.jpg",
+          "version": 1
+        },
+        {
+          "id": "0d00d0d1",
+          "thumbnail": "thumb/0d00d0d1.jpg",
+          "fullsize": "full/0d00d0d1.jpg",
+          "version": 1
+        },
+        {
+          "id": "d6116208",
+          "thumbnail": "thumb/d6116208.jpg",
+          "fullsize": "full/d6116208.jpg",
+          "version": 1
+        },
+        {
+          "id": "512b059e",
+          "thumbnail": "thumb/512b059e.jpg",
+          "fullsize": "full/512b059e.jpg",
+          "version": 1
+        },
+        {
+          "id": "f4cf7f73",
+          "thumbnail": "thumb/f4cf7f73.jpg",
+          "fullsize": "full/f4cf7f73.jpg",
+          "version": 1
+        },
+        {
+          "id": "9fc9f614",
+          "thumbnail": "thumb/9fc9f614.jpg",
+          "fullsize": "full/9fc9f614.jpg",
+          "version": 1
+        },
+        {
+          "id": "f6d933a2",
+          "thumbnail": "thumb/f6d933a2.jpg",
+          "fullsize": "full/f6d933a2.jpg",
+          "version": 1
+        },
+        {
+          "id": "2f65d0d6",
+          "thumbnail": "thumb/2f65d0d6.jpg",
+          "fullsize": "full/2f65d0d6.jpg",
+          "version": 1
+        },
+        {
+          "id": "5cc587df",
+          "thumbnail": "thumb/5cc587df.jpg",
+          "fullsize": "full/5cc587df.jpg",
+          "version": 1
+        },
+        {
+          "id": "9a79b1a8",
+          "thumbnail": "thumb/9a79b1a8.jpg",
+          "fullsize": "full/9a79b1a8.jpg",
+          "version": 1
+        },
+        {
+          "id": "083540fd",
+          "thumbnail": "thumb/083540fd.jpg",
+          "fullsize": "full/083540fd.jpg",
+          "version": 1
+        },
+        {
+          "id": "ae4a4fca",
+          "thumbnail": "thumb/ae4a4fca.jpg",
+          "fullsize": "full/ae4a4fca.jpg",
+          "version": 1
+        },
+        {
+          "id": "7ece2929",
+          "thumbnail": "thumb/7ece2929.jpg",
+          "fullsize": "full/7ece2929.jpg",
+          "version": 1
+        },
+        {
+          "id": "cbb3132b",
+          "thumbnail": "thumb/cbb3132b.jpg",
+          "fullsize": "full/cbb3132b.jpg",
+          "version": 1
+        },
+        {
+          "id": "345d2f94",
+          "thumbnail": "thumb/345d2f94.jpg",
+          "fullsize": "full/345d2f94.jpg",
+          "version": 1
+        },
+        {
+          "id": "050e850a",
+          "thumbnail": "thumb/050e850a.jpg",
+          "fullsize": "full/050e850a.jpg",
+          "version": 1
+        },
+        {
+          "id": "abe7e561",
+          "thumbnail": "thumb/abe7e561.jpg",
+          "fullsize": "full/abe7e561.jpg",
+          "version": 1
+        },
+        {
+          "id": "28fb53ef",
+          "thumbnail": "thumb/28fb53ef.jpg",
+          "fullsize": "full/28fb53ef.jpg",
+          "version": 1
+        },
+        {
+          "id": "11cfccf8",
+          "thumbnail": "thumb/11cfccf8.jpg",
+          "fullsize": "full/11cfccf8.jpg",
+          "version": 1
+        },
+        {
+          "id": "821f0449",
+          "thumbnail": "thumb/821f0449.jpg",
+          "fullsize": "full/821f0449.jpg",
+          "version": 1
+        },
+        {
+          "id": "ab0f89ee",
+          "thumbnail": "thumb/ab0f89ee.jpg",
+          "fullsize": "full/ab0f89ee.jpg",
+          "version": 1
+        },
+        {
+          "id": "d0baa813",
+          "thumbnail": "thumb/d0baa813.jpg",
+          "fullsize": "full/d0baa813.jpg",
+          "version": 1
+        },
+        {
+          "id": "254ff817",
+          "thumbnail": "thumb/254ff817.jpg",
+          "fullsize": "full/254ff817.jpg",
+          "version": 1
+        },
+        {
+          "id": "8a4fe219",
+          "thumbnail": "thumb/8a4fe219.jpg",
+          "fullsize": "full/8a4fe219.jpg",
+          "version": 1
+        },
+        {
+          "id": "3cb0e0ab",
+          "thumbnail": "thumb/3cb0e0ab.jpg",
+          "fullsize": "full/3cb0e0ab.jpg",
+          "version": 1
+        },
+        {
+          "id": "f04203e8",
+          "thumbnail": "thumb/f04203e8.jpg",
+          "fullsize": "full/f04203e8.jpg",
+          "version": 1
+        },
+        {
+          "id": "c88d82d0",
+          "thumbnail": "thumb/c88d82d0.jpg",
+          "fullsize": "full/c88d82d0.jpg",
+          "version": 1
+        },
+        {
+          "id": "8d76f99c",
+          "thumbnail": "thumb/8d76f99c.jpg",
+          "fullsize": "full/8d76f99c.jpg",
+          "version": 1
+        },
+        {
+          "id": "0d9b2f29",
+          "thumbnail": "thumb/0d9b2f29.jpg",
+          "fullsize": "full/0d9b2f29.jpg",
+          "version": 1
+        },
+        {
+          "id": "f00630b8",
+          "thumbnail": "thumb/f00630b8.jpg",
+          "fullsize": "full/f00630b8.jpg",
+          "version": 1
+        },
+        {
+          "id": "0321118c",
+          "thumbnail": "thumb/0321118c.jpg",
+          "fullsize": "full/0321118c.jpg",
+          "version": 1
+        },
+        {
+          "id": "43b1cc6e",
+          "thumbnail": "thumb/43b1cc6e.jpg",
+          "fullsize": "full/43b1cc6e.jpg",
+          "version": 1
+        },
+        {
+          "id": "51bd1558",
+          "thumbnail": "thumb/51bd1558.jpg",
+          "fullsize": "full/51bd1558.jpg",
+          "version": 1
+        },
+        {
+          "id": "c5c04adb",
+          "thumbnail": "thumb/c5c04adb.jpg",
+          "fullsize": "full/c5c04adb.jpg",
+          "version": 1
+        },
+        {
+          "id": "d2a20a17",
+          "thumbnail": "thumb/d2a20a17.jpg",
+          "fullsize": "full/d2a20a17.jpg",
+          "version": 1
+        },
+        {
+          "id": "a9602455",
+          "thumbnail": "thumb/a9602455.jpg",
+          "fullsize": "full/a9602455.jpg",
+          "version": 1
+        }
+      ]
+    }
+  ],
+  "githubRepo": "yudofu185/gallery-c8e4e8"
+}
