@@ -1,7 +1,7 @@
 {
   "version": 1,
   "baseUrl": "https://yudofu185.github.io/gallery-c8e4e8",
-  "generatedAt": "2026-07-14T08:36:19.437023300+00:00",
+  "generatedAt": "2026-08-04T01:31:37.284318300+00:00",
   "galleries": [
     {
       "galleryId": "wall",
@@ -9,311 +9,441 @@
       "images": [
         {
           "id": "7c2bad98",
-          "thumbnail": "thumb/7c2bad98.jpg",
-          "fullsize": "full/7c2bad98.jpg",
-          "version": 1
+          "thumbnail": "thumb/01.jpg",
+          "fullsize": "full/01.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "d4e7f068",
-          "thumbnail": "thumb/d4e7f068.jpg",
-          "fullsize": "full/d4e7f068.jpg",
-          "version": 1
+          "thumbnail": "thumb/02.jpg",
+          "fullsize": "full/02.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "abfdd562",
-          "thumbnail": "thumb/abfdd562.jpg",
-          "fullsize": "full/abfdd562.jpg",
-          "version": 1
+          "thumbnail": "thumb/03.jpg",
+          "fullsize": "full/03.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "58cf8a1f",
-          "thumbnail": "thumb/58cf8a1f.jpg",
-          "fullsize": "full/58cf8a1f.jpg",
-          "version": 1
+          "thumbnail": "thumb/04.jpg",
+          "fullsize": "full/04.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "bdc3e520",
-          "thumbnail": "thumb/bdc3e520.jpg",
-          "fullsize": "full/bdc3e520.jpg",
-          "version": 1
+          "thumbnail": "thumb/05.jpg",
+          "fullsize": "full/05.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "00bd5679",
-          "thumbnail": "thumb/00bd5679.jpg",
-          "fullsize": "full/00bd5679.jpg",
-          "version": 1
+          "thumbnail": "thumb/06.jpg",
+          "fullsize": "full/06.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "c02462be",
-          "thumbnail": "thumb/c02462be.jpg",
-          "fullsize": "full/c02462be.jpg",
-          "version": 1
+          "thumbnail": "thumb/07.jpg",
+          "fullsize": "full/07.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "e90dfecc",
-          "thumbnail": "thumb/e90dfecc.jpg",
-          "fullsize": "full/e90dfecc.jpg",
-          "version": 1
+          "thumbnail": "thumb/08.jpg",
+          "fullsize": "full/08.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "193dd8d0",
-          "thumbnail": "thumb/193dd8d0.jpg",
-          "fullsize": "full/193dd8d0.jpg",
-          "version": 1
+          "thumbnail": "thumb/09.jpg",
+          "fullsize": "full/09.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "f99cff4c",
-          "thumbnail": "thumb/f99cff4c.jpg",
-          "fullsize": "full/f99cff4c.jpg",
-          "version": 1
+          "thumbnail": "thumb/10.jpg",
+          "fullsize": "full/10.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "eefc35ed",
-          "thumbnail": "thumb/eefc35ed.jpg",
-          "fullsize": "full/eefc35ed.jpg",
-          "version": 1
+          "thumbnail": "thumb/11.jpg",
+          "fullsize": "full/11.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "85551cd1",
-          "thumbnail": "thumb/85551cd1.jpg",
-          "fullsize": "full/85551cd1.jpg",
-          "version": 1
+          "thumbnail": "thumb/12.jpg",
+          "fullsize": "full/12.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "c6ab6aae",
-          "thumbnail": "thumb/c6ab6aae.jpg",
-          "fullsize": "full/c6ab6aae.jpg",
-          "version": 1
+          "thumbnail": "thumb/13.jpg",
+          "fullsize": "full/13.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "a668fac3",
-          "thumbnail": "thumb/a668fac3.jpg",
-          "fullsize": "full/a668fac3.jpg",
-          "version": 1
+          "thumbnail": "thumb/14.jpg",
+          "fullsize": "full/14.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "906782cb",
-          "thumbnail": "thumb/906782cb.jpg",
-          "fullsize": "full/906782cb.jpg",
-          "version": 1
+          "thumbnail": "thumb/15.jpg",
+          "fullsize": "full/15.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "036d7bd8",
-          "thumbnail": "thumb/036d7bd8.jpg",
-          "fullsize": "full/036d7bd8.jpg",
-          "version": 1
+          "thumbnail": "thumb/16.jpg",
+          "fullsize": "full/16.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "cf613646",
-          "thumbnail": "thumb/cf613646.jpg",
-          "fullsize": "full/cf613646.jpg",
-          "version": 1
+          "thumbnail": "thumb/17.jpg",
+          "fullsize": "full/17.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "b9458620",
-          "thumbnail": "thumb/b9458620.jpg",
-          "fullsize": "full/b9458620.jpg",
-          "version": 1
+          "thumbnail": "thumb/18.jpg",
+          "fullsize": "full/18.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "deb2a268",
-          "thumbnail": "thumb/deb2a268.jpg",
-          "fullsize": "full/deb2a268.jpg",
-          "version": 1
+          "thumbnail": "thumb/19.jpg",
+          "fullsize": "full/19.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "645287e9",
-          "thumbnail": "thumb/645287e9.jpg",
-          "fullsize": "full/645287e9.jpg",
-          "version": 1
+          "thumbnail": "thumb/20.jpg",
+          "fullsize": "full/20.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "ec3653ab",
-          "thumbnail": "thumb/ec3653ab.jpg",
-          "fullsize": "full/ec3653ab.jpg",
-          "version": 1
+          "thumbnail": "thumb/21.jpg",
+          "fullsize": "full/21.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "2d36064b",
-          "thumbnail": "thumb/2d36064b.jpg",
-          "fullsize": "full/2d36064b.jpg",
-          "version": 1
+          "thumbnail": "thumb/22.jpg",
+          "fullsize": "full/22.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "370c9544",
-          "thumbnail": "thumb/370c9544.jpg",
-          "fullsize": "full/370c9544.jpg",
-          "version": 1
+          "thumbnail": "thumb/23.jpg",
+          "fullsize": "full/23.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "354e2027",
-          "thumbnail": "thumb/354e2027.jpg",
-          "fullsize": "full/354e2027.jpg",
-          "version": 1
+          "thumbnail": "thumb/24.jpg",
+          "fullsize": "full/24.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "e366b240",
-          "thumbnail": "thumb/e366b240.jpg",
-          "fullsize": "full/e366b240.jpg",
-          "version": 1
+          "thumbnail": "thumb/25.jpg",
+          "fullsize": "full/25.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "b6b9d867",
-          "thumbnail": "thumb/b6b9d867.jpg",
-          "fullsize": "full/b6b9d867.jpg",
-          "version": 1
+          "thumbnail": "thumb/26.jpg",
+          "fullsize": "full/26.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "951d2a20",
-          "thumbnail": "thumb/951d2a20.jpg",
-          "fullsize": "full/951d2a20.jpg",
-          "version": 1
+          "thumbnail": "thumb/27.jpg",
+          "fullsize": "full/27.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "77cde2dc",
-          "thumbnail": "thumb/77cde2dc.jpg",
-          "fullsize": "full/77cde2dc.jpg",
-          "version": 1
+          "thumbnail": "thumb/28.jpg",
+          "fullsize": "full/28.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "04b3ede2",
-          "thumbnail": "thumb/04b3ede2.jpg",
-          "fullsize": "full/04b3ede2.jpg",
-          "version": 1
+          "thumbnail": "thumb/29.jpg",
+          "fullsize": "full/29.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "a4d2bf15",
-          "thumbnail": "thumb/a4d2bf15.jpg",
-          "fullsize": "full/a4d2bf15.jpg",
-          "version": 1
+          "thumbnail": "thumb/30.jpg",
+          "fullsize": "full/30.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "6d609550",
-          "thumbnail": "thumb/6d609550.jpg",
-          "fullsize": "full/6d609550.jpg",
-          "version": 1
+          "thumbnail": "thumb/31.jpg",
+          "fullsize": "full/31.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "6711fae7",
-          "thumbnail": "thumb/6711fae7.jpg",
-          "fullsize": "full/6711fae7.jpg",
-          "version": 1
+          "thumbnail": "thumb/32.jpg",
+          "fullsize": "full/32.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "6cfbb547",
-          "thumbnail": "thumb/6cfbb547.jpg",
-          "fullsize": "full/6cfbb547.jpg",
-          "version": 1
+          "thumbnail": "thumb/33.jpg",
+          "fullsize": "full/33.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "4ffc85d4",
-          "thumbnail": "thumb/4ffc85d4.jpg",
-          "fullsize": "full/4ffc85d4.jpg",
-          "version": 1
+          "thumbnail": "thumb/34.jpg",
+          "fullsize": "full/34.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "b8d6641d",
-          "thumbnail": "thumb/b8d6641d.jpg",
-          "fullsize": "full/b8d6641d.jpg",
-          "version": 1
+          "thumbnail": "thumb/35.jpg",
+          "fullsize": "full/35.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "b86c382b",
-          "thumbnail": "thumb/b86c382b.jpg",
-          "fullsize": "full/b86c382b.jpg",
-          "version": 1
+          "thumbnail": "thumb/36.jpg",
+          "fullsize": "full/36.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "a2a9ea28",
-          "thumbnail": "thumb/a2a9ea28.jpg",
-          "fullsize": "full/a2a9ea28.jpg",
-          "version": 1
+          "thumbnail": "thumb/37.jpg",
+          "fullsize": "full/37.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "83294d30",
-          "thumbnail": "thumb/83294d30.jpg",
-          "fullsize": "full/83294d30.jpg",
-          "version": 1
+          "thumbnail": "thumb/38.jpg",
+          "fullsize": "full/38.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "fd32c809",
-          "thumbnail": "thumb/fd32c809.jpg",
-          "fullsize": "full/fd32c809.jpg",
-          "version": 1
+          "thumbnail": "thumb/39.jpg",
+          "fullsize": "full/39.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "2c417a8d",
-          "thumbnail": "thumb/2c417a8d.jpg",
-          "fullsize": "full/2c417a8d.jpg",
-          "version": 1
+          "thumbnail": "thumb/40.jpg",
+          "fullsize": "full/40.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "63a10242",
-          "thumbnail": "thumb/63a10242.jpg",
-          "fullsize": "full/63a10242.jpg",
-          "version": 1
+          "thumbnail": "thumb/41.jpg",
+          "fullsize": "full/41.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "a5d94ee0",
-          "thumbnail": "thumb/a5d94ee0.jpg",
-          "fullsize": "full/a5d94ee0.jpg",
-          "version": 1
+          "thumbnail": "thumb/42.jpg",
+          "fullsize": "full/42.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "3b03f156",
-          "thumbnail": "thumb/3b03f156.jpg",
-          "fullsize": "full/3b03f156.jpg",
-          "version": 1
+          "thumbnail": "thumb/43.jpg",
+          "fullsize": "full/43.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "85975614",
-          "thumbnail": "thumb/85975614.jpg",
-          "fullsize": "full/85975614.jpg",
-          "version": 1
+          "thumbnail": "thumb/44.jpg",
+          "fullsize": "full/44.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "d62f509b",
-          "thumbnail": "thumb/d62f509b.jpg",
-          "fullsize": "full/d62f509b.jpg",
-          "version": 1
+          "thumbnail": "thumb/45.jpg",
+          "fullsize": "full/45.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "2f938bac",
-          "thumbnail": "thumb/2f938bac.jpg",
-          "fullsize": "full/2f938bac.jpg",
-          "version": 1
+          "thumbnail": "thumb/46.jpg",
+          "fullsize": "full/46.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "a028c382",
-          "thumbnail": "thumb/a028c382.jpg",
-          "fullsize": "full/a028c382.jpg",
-          "version": 1
+          "thumbnail": "thumb/47.jpg",
+          "fullsize": "full/47.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "e2b6fe6a",
-          "thumbnail": "thumb/e2b6fe6a.jpg",
-          "fullsize": "full/e2b6fe6a.jpg",
-          "version": 1
+          "thumbnail": "thumb/48.jpg",
+          "fullsize": "full/48.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "71eee232",
-          "thumbnail": "thumb/71eee232.jpg",
-          "fullsize": "full/71eee232.jpg",
-          "version": 1
+          "thumbnail": "thumb/49.jpg",
+          "fullsize": "full/49.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "81bb836a",
-          "thumbnail": "thumb/81bb836a.jpg",
-          "fullsize": "full/81bb836a.jpg",
-          "version": 1
+          "thumbnail": "thumb/50.jpg",
+          "fullsize": "full/50.jpg",
+          "version": 1,
+          "hasData": true
         },
         {
           "id": "8cbf9e6d",
-          "thumbnail": "thumb/8cbf9e6d.jpg",
-          "fullsize": "full/8cbf9e6d.jpg",
+          "thumbnail": "thumb/51.jpg",
+          "fullsize": "full/51.jpg",
+          "version": 1,
+          "hasData": true
+        },
+        {
+          "id": "dummy_52",
+          "thumbnail": "thumb/52.jpg",
+          "fullsize": "full/52.jpg",
+          "version": 1
+        },
+        {
+          "id": "dummy_53",
+          "thumbnail": "thumb/53.jpg",
+          "fullsize": "full/53.jpg",
+          "version": 1
+        },
+        {
+          "id": "dummy_54",
+          "thumbnail": "thumb/54.jpg",
+          "fullsize": "full/54.jpg",
+          "version": 1
+        },
+        {
+          "id": "dummy_55",
+          "thumbnail": "thumb/55.jpg",
+          "fullsize": "full/55.jpg",
+          "version": 1
+        },
+        {
+          "id": "dummy_56",
+          "thumbnail": "thumb/56.jpg",
+          "fullsize": "full/56.jpg",
+          "version": 1
+        },
+        {
+          "id": "dummy_57",
+          "thumbnail": "thumb/57.jpg",
+          "fullsize": "full/57.jpg",
+          "version": 1
+        },
+        {
+          "id": "dummy_58",
+          "thumbnail": "thumb/58.jpg",
+          "fullsize": "full/58.jpg",
+          "version": 1
+        },
+        {
+          "id": "dummy_59",
+          "thumbnail": "thumb/59.jpg",
+          "fullsize": "full/59.jpg",
+          "version": 1
+        },
+        {
+          "id": "dummy_60",
+          "thumbnail": "thumb/60.jpg",
+          "fullsize": "full/60.jpg",
+          "version": 1
+        },
+        {
+          "id": "dummy_61",
+          "thumbnail": "thumb/61.jpg",
+          "fullsize": "full/61.jpg",
+          "version": 1
+        },
+        {
+          "id": "dummy_62",
+          "thumbnail": "thumb/62.jpg",
+          "fullsize": "full/62.jpg",
+          "version": 1
+        },
+        {
+          "id": "dummy_63",
+          "thumbnail": "thumb/63.jpg",
+          "fullsize": "full/63.jpg",
+          "version": 1
+        },
+        {
+          "id": "dummy_64",
+          "thumbnail": "thumb/64.jpg",
+          "fullsize": "full/64.jpg",
           "version": 1
         }
-      ]
+      ],
+      "toolOnlyEdit": true
     },
     {
       "galleryId": "wall_b",
